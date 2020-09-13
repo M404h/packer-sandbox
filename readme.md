@@ -1,2 +1,2 @@
-# kubernetes secrete lab - AMI
-## Creates AMI on k3s 
+# Sandbox packer
+## Creates a k3d installation with docker on an ubuntu base
